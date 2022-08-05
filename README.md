@@ -36,17 +36,11 @@ PROYECTO creado con:
 ## ILUSTRACIONES
 
 ---
-### Esto verás cuando entras al HOME
----
-### Así verás la pantalla para crear empleado
+### Vista del menú
 ---
 
 
----
-### Así podrás modificar los datos del empleado
----
 
----
 
 ## CONTENIDOS
 - crearTarea
