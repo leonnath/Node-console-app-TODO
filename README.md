@@ -38,7 +38,7 @@ PROYECTO creado con:
 ---
 ### Vista del menú
 ---
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXPJtBsRtUNsTzOQ5RbNlqo8yJQMvk05DNBGSei0ftuzO2GRZ0wzYmcc9OH9YYkJYfif8392__shQ7/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
