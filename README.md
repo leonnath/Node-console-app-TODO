@@ -1,5 +1,5 @@
 # Node-console-app-TODO
-Aplicación de consola que crea tareas y las meuntra en una lista, también las elimina, las marca en completadas y pendientes. Está realizada con Node , InquirerJS, UUID, Colors.
+Aplicación de consola que crea tareas y las muestra en una lista, también las elimina, las marca en completadas y pendientes. Está realizada con Node , InquirerJS, UUID, Colors.
 
 
 # COMENZANDO 🚀...
