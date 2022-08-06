@@ -36,7 +36,7 @@ PROYECTO creado con:
 ## ILUSTRACIONES
 
 ---
-[Presentación Diapositiva de App Sistema](https://docs.google.com/presentation/d/e/2PACX-1vQXPJtBsRtUNsTzOQ5RbNlqo8yJQMvk05DNBGSei0ftuzO2GRZ0wzYmcc9OH9YYkJYfif8392__shQ7/pub?start=true&loop=true&delayms=3000)
+[Presentación Diapositiva de App TODO](https://docs.google.com/presentation/d/e/2PACX-1vQXPJtBsRtUNsTzOQ5RbNlqo8yJQMvk05DNBGSei0ftuzO2GRZ0wzYmcc9OH9YYkJYfif8392__shQ7/pub?start=true&loop=true&delayms=3000)
 ---
 
 ## CONTENIDOS
